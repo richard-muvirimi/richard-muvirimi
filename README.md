@@ -21,7 +21,7 @@
 ![Npm](https://img.shields.io/badge/-Npm-000?&logo=npm)
 ![Mui](https://img.shields.io/badge/-Mui-000?&logo=mui)
 
-### On
+#### On
 
 ![Manjaro](https://img.shields.io/badge/-Manjaro-000?&logo=manjaro)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
@@ -29,7 +29,7 @@
 ![WSL](https://img.shields.io/badge/-WSL-000?&logo=ubuntu)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
 
-#### Supported By
+###### Supported By
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=github)
@@ -39,7 +39,7 @@
 ![Npm](https://img.shields.io/badge/-Npm-000?&logo=npm)
 ![Composer](https://img.shields.io/badge/-Composer-000?&logo=composer)
 
-### Using
+#### Using
 
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
 ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-000?&logo=googlechrome)
@@ -49,7 +49,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)
 ![WSL](https://img.shields.io/badge/-WSL-000?&logo=ubuntu)
 
-#### &&
+###### &&
 
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-000?&logo=codeigniter)
