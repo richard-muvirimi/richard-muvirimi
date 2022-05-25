@@ -29,7 +29,7 @@
 ![WSL](https://img.shields.io/badge/-WSL-000?&logo=ubuntu)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
 
-### Supported By
+#### Supported By
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=github)
@@ -49,7 +49,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)
 ![WSL](https://img.shields.io/badge/-WSL-000?&logo=ubuntu)
 
-####Basing On...
+#### &&
 
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-000?&logo=codeigniter)
@@ -60,8 +60,7 @@
 
 #### Contact
 
-[Portfolio](https://tyganeutronics.com)
-[GitHub Gists](https://gists.github.com/richard-muvirimi)
+[Portfolio](https://tyganeutronics.com) ~ [GitHub Gists](https://gists.github.com/richard-muvirimi)
 
 ---
 
