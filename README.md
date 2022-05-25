@@ -58,7 +58,7 @@
 ![Magento](https://img.shields.io/badge/-Magento-000?&logo=magento)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
 
-#### Contact
+### Contact
 
 [Portfolio](https://tyganeutronics.com) ~ [GitHub Gists](https://gists.github.com/richard-muvirimi)
 
