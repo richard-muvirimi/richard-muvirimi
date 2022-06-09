@@ -6,11 +6,11 @@
 ##### Android Mobile (Java & Kotlin), Windows & Linux (C++, Python, Bash & Java), Browser Extension and Full Stack Web Developer (PHP & Node).
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richard-muvirimi&theme=dark)](https://github.com/richard-muvirimi)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richard-muvirimi&theme=radical)](https://github.com/richard-muvirimi)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=richard-muvirimi&count_private=true&show_icons=true&theme=radical)](https://github.com/richard-muvirimi)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-muvirimi&count_private=true&layout=compact)](https://github.com/richard-muvirimi)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-muvirimi&count_private=true&layout=compact&theme=radical)](https://github.com/richard-muvirimi)
 
 ---
 
