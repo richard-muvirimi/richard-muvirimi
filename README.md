@@ -1,6 +1,6 @@
 <sup align="right">Hi :wave:, I am</sup>
 ### [Richard Muvirimi](https://tyganeutronics.com)
-<sup>a</sup>
+<sub>a</sub>
 #### Full Stack Software Developer
 <sup>fluent in</sup>
 ##### Android Mobile (Java & Kotlin), Windows & Linux (C++, Python, Bash & Java), Browser Extension and Full Stack Web Developer (PHP & Node).
