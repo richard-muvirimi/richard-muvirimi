@@ -1,3 +1,4 @@
+<div align="center">
 <sup>Hi :wave:, I am</sup>
     
 ### [Richard Muvirimi](https://richard.co.zw)
@@ -9,6 +10,7 @@
 <sup>fluent in</sup>
 
 ##### PHP (Composer, WordPress, Laravel & Codeigniter), Node (Express, React, Angular), Android (Java, Kotlin & React Native), Linux Bash, Graphql & Continuous Integration.
+
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richard-muvirimi&theme=radical)](https://github.com/richard-muvirimi)
@@ -19,4 +21,6 @@
 
 ---
 
-### [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-000?&logo=buymeacoffee)](https://buymeacoffee.com/fpjyrXk)
+### [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-white.png)](https://buymeacoffee.com/fpjyrXk)
+
+</div>
